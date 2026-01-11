@@ -31,5 +31,3 @@ Instead of simple bar charts, I implemented complex BI visuals to provide deeper
 - **Operational_Costs_Analysis.csv:** The final processed dataset used for visualization.
 
 - **BI_Operational_Profitability_Analysis.twbx:** The complete Tableau Packaged Workbook containing all sheets and the final dashboard.
-
-- **Dashboard_Preview.png:** High-resolution screenshot of the final executive dashboard.
