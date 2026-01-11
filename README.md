@@ -26,6 +26,8 @@ Instead of simple bar charts, I implemented complex BI visuals to provide deeper
 - **Operational Optimization:** The dashboard reveals that Logistics Costs are significantly higher in the LATAM region compared to North America.
 
 ## Project Structure
+- **cost_analysis_simulation.py:**
+
 - **Operational_Costs_Python_Script.ipynb:** Python notebook for data generation, cleaning, and EDA.
 
 - **Operational_Costs_Analysis.csv:** The final processed dataset used for visualization.
